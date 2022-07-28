@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&family=Roboto+Slab:wght@300&family=Roboto:wght@100&display=swap");
+
+body {
+  background-image: linear-gradient(to bottom, #cdf0ea, #f9f9f9, #f6c6ea);
+}
+
+.card {
+  background-image: linear-gradient(to bottom, #f0ebe3, #e4dccf, #7d9d9c);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid #000000;
+  align-items: center;
+  background-image: linear-gradient(to right, #2c3333, #395b64);
+}
